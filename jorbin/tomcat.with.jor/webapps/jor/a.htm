@@ -1,0 +1,211 @@
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>简表 5.0</title>
+<OBJECT ID="_jatoolsPrinter" CLASSID="CLSID:B43D3361-D975-4BE2-87FE-057188254255" codebase="jatoolsPrinter/jatoolsPrinter.cab#version=5,0,0,0"></OBJECT>
+<script src="js/jquery.js"></script>
+<script src="js/toolsbar.js"></script>
+</head>
+<body style='overflow:hidden;margin:0;padding:30px 0 5px 0;'>
+
+
+
+<style>
+<!--
+ div#header{
+  position:absolute; 
+  top:0;
+  left:0;
+  padding:3px 3px 3px 3px;
+  width:100%;
+  height:30px;
+ }
+ 
+ .active-page{border:solid 2 blue}
+
+  body>div#header{
+   position:fixed;
+  }
+ div#_container_div{
+  height:100%;
+  overflow:auto;
+ }
+ 
+ BUTTON {padding: 0px;}
+
+
+.toolbutton {width: 24px; height: 24px; background-repeat: no-repeat;margin:0px;padding-left:0px;padding-right:0px">
+-->
+</style>
+
+<script>
+
+function doZoom(z) {
+    if (z.indexOf('-') == -1) jatoolsbar.zoomTo(z);
+    else if (z == '-100') jatoolsbar.fitWholePage();
+    else if (z == '-200') jatoolsbar.fitPageWidth();
+    zoomChooser.value = z;
+}
+
+function zoom(how) {
+
+    val = null;
+    items = new Array(15, 30, 50, 75, 100, 125, 200, 300, 350, 400);
+    z = jatoolsbar.currentScale;
+    f = false;
+    if (how == '+') {
+        z++;
+        for (i = 0; i < items.length; i++) {
+            if (items[i] > z) {
+                z = items[i];
+                f = true;
+                break;
+            }
+        }
+    } else {
+        z--;
+        for (i = items.length - 1; i >= 0; i--) {
+            if (items[i] < z) {
+                z = items[i];
+                f = true;
+                break;
+            }
+        }
+    }
+    if (f) {
+        doZoom(z + '');
+    }
+}
+var jatoolsbar = null;
+$().ready(function () {
+    var pageChanged = function () {
+        $('#_page_info').html(jatoolsbar.currentPage + "/" + jatoolsbar.pageCount);
+    };
+    jatoolsbar = new Jatoolsbar({
+        container: '#_container_div',
+        listeners: [pageChanged]
+    });
+    
+    jatoolsbar.firstPage();
+
+});
+
+
+</script>
+
+
+
+
+<div id='header' >
+
+
+<button id='printbutton2' style='disabled:true' onclick ='jatoolsbar.print(false)' title='打印'  class="toolbutton"  ><img src='tools/images/print.gif' /></button>
+<button id='previewbutton' style='disabled:true' onclick ='jatoolsbar.printPreview()' title='打印预览...' class="toolbutton"  ><img src='tools/images/preview.gif' /></button>
+&nbsp;&nbsp;
+
+<button onclick ='jatoolsbar.exportAs("xls")' title='导出成Excel' class="toolbutton" ><img src='tools/images/xls.gif' /></button>
+<button onclick ='jatoolsbar.exportAs("pdf")' title='导出成PDF' class="toolbutton" ><img src='tools/images/pdf.gif' /></button>
+<button onclick ='jatoolsbar.exportAs("rtf")' title='导出成Word' class="toolbutton" ><img src='tools/images/word.gif' /></button>
+&nbsp;&nbsp;
+
+
+<button onclick ='jatoolsbar.firstPage()' title='第一页' class="toolbutton" ><img src='tools/images/first.gif' /></button>
+<button onclick ='jatoolsbar.previousPage()' title='前一页' class="toolbutton" ><img src='tools/images/previous.gif' /></button><span id='_page_info'></span>
+<button onclick ='jatoolsbar.nextPage()' title='后一页' class="toolbutton"><img src='tools/images/next.gif' /></button>
+<button onclick ='jatoolsbar.lastPage()' title='最后一页' class="toolbutton"  ><img src='tools/images/last.gif' /></button>
+
+&nbsp;&nbsp; <button onclick ='zoom("-")' title='缩小' class="toolbutton" ><img src='tools/images/zoomout.gif' /></button>
+<button onclick ='zoom("+")' title='放大' class="toolbutton" ><img src='tools/images/zoomin.gif' /></button>
+<select size="1" name="zoomChooser" onchange = 'doZoom(zoomChooser.value)'>
+<option value="15">15%</option>
+
+<option value="30">30%</option>
+ <option value="50">50%</option>
+ <option value="75">75%</option>
+ <option value="100" selected>100%</option>
+ <option value="125">125%</option>
+ <option value="200">200%</option>
+
+ <option value="300">300%</option>
+ <option value="350">350%</option>
+ <option value="400">400%</option>
+ <option value="-100">整页</option>
+ <option value="-200">页宽</option>
+
+</select>&nbsp; <button onclick ='doZoom("100")' title='原始大小' class="toolbutton"  ><img src='tools/images/zoom100.gif' /></button>
+
+<button onclick ='doZoom("-100")' title='整页显示' class="toolbutton"  ><img src='tools/images/wholepage.gif' /></button>
+<button onclick ='doZoom("-200")' title='按页宽显示' class="toolbutton"  ><img src='tools/images/zoom2w.gif' /></button>
+
+
+
+</div>
+
+
+
+<div id='_container_div' style="cursor:hand;margin:0;zoom:100%;height:100%;width:100%;overflow:auto;border:medium none thin threedhighlight inset;background:#808080;" ><div style='display:none'>&nbsp;</div><style><!--
+*{
+-moz-box-sizing: border-box;
+}
+.pcls{float: left;overflow:hidden;position:relative;}
+div.pcls *{white-space:nowrap;}
+div.pcls div{position:absolute}
+div.pcls table{position:absolute}
+div.pcls img{position:absolute}
+div.td {overflow:hidden;width:100%;height:100%;}
+div.pcls div.h{overflow:hidden;}.txd{position:static;width:100%}
+.mt{display:table}
+div.mt div.mt2{position:static;_position:absolute;_top: 50%;_left: 0;display:table-cell;vertical-align:middle;}
+.mt2 p{_position: relative;_top:-50%}
+img.tl{top:0;left:0}
+img.tr{top:0;right:0}
+img.bl{bottom:0;left:0}
+img.br{bottom:0;right:0}
+img.t{top:0;}
+img.l{left:0}
+img.b{bottom:0;}
+img.r{right:0}
+.fr_lt{z-index:4;}
+.fr_t{z-index:3;}
+.fr_l{z-index:2;}
+.fr_c{cursor:hand;}
+.d0{}
+.c0{font-family: 宋体;font-size: 12px;;height:100%;color: #FF0000;}
+.t1{border:1px solid #000000;}
+.c1{font-family: 宋体;font-size: 12px;}
+.t2{border:1px solid #000000;}
+.c2{font-family: 宋体;font-size: 12px;}
+.t3{border:1px solid #000000;}
+.c3{font-family: 宋体;font-size: 12px;text-align:center;}
+.t4{border:1px solid #000000;}
+.c4{font-family: 宋体;font-size: 12px;text-align:center;}
+.t5{border-top:1px solid #000000;border-left:1 solid #000000;border-right:1 solid #000000;background-color: #FFC080;}
+.c5{font-family: 宋体;font-size: 12px;}
+.t6{border-top:1 solid #000000;border-left:1 solid #000000;border-right:1 solid #000000;background-color: #FFC080;}
+.c6{font-family: 宋体;font-size: 12px;}
+.t7{border:1px solid #000000;}
+.c7{font-family: 宋体;font-size: 12px;text-align:right;}
+.t8{border:1px solid #000000;}
+.c8{font-family: 宋体;font-size: 12px;text-align:right;}
+.t9{border:1px solid #000000;background-color: #C0C0FF;}
+.c9{font-family: 宋体;font-size: 12px;}
+.t10{border:1px solid #000000;background-color: #C0C0FF;}
+.c10{font-family: 宋体;font-size: 12px;}
+.t11{border-top:1 solid #000000;border-right:1 solid #000000;border-bottom:1 solid #000000;}
+.c11{font-family: 宋体;font-size: 12px;text-align:right;}
+.t12{border-top:1 solid #000000;border-right:1 solid #000000;border-bottom:1 solid #000000;}
+.c12{font-family: 宋体;font-size: 12px;text-align:right;}
+.t13{border-left:1 solid #000000;border-right:1 solid #000000;border-bottom:1 solid #000000;}
+.c13{font-family: 宋体;font-size: 12px;}
+.t14{border-top:1 solid #000000;border-right:1 solid #000000;border-bottom:1 solid #000000;}
+.c14{font-family: 宋体;font-size: 12px;text-align:right;}
+.t15{border-top:1 solid #000000;border-right:1 solid #000000;border-bottom:1 solid #000000;}
+.c15{font-family: 宋体;font-size: 12px;text-align:right;}
+--></style><div id='_page_1' class='pcls'  style='margin:10;width:793;height:1122;background-color:white;'><div class='jpage' id="page1"><div  style='left:20;top:20;width:753;height:80;' ><div class='d0 nt'  style='left:51;top:8;width:548;height:62;' ><div class='c0 txd' style='line-height:62px' >用多数集创建一个交叉报表,交叉报表的数据有可能来自一个数据集,而分组信息可能来自另一个数据集</div></div></div><div  style='left:20;top:822;width:753;height:280;' ></div><div  style='left:20;top:100;width:753;height:722;' ><table  cellpadding='0' cellspacing='0' style='border-collapse:collapse;left:37;top:41;width:631;'><colgroup><col width='60'><col width='174'><col width='157'><col width='80'><col width='80'><col width='80'></colgroup><tr height='45'><td class='t1' ><p class='c1' ></p></td><td class='t2' ><p class='c2' ></p></td><td class='t3' ><p class='c3' >合计</p></td><td class='t4' ><p class='c4' >华东</p></td><td class='t4' ><p class='c4' >华北</p></td><td class='t4' ><p class='c4' >华南</p></td></tr><tr height='20'><td class='t5'  rowSpan='8' ><p class='c5' >类别</p></td><td class='t6' ><p class='c6' >日用品</p></td><td class='t7' ><p class='c7' >3,486.60</p></td><td class='t8' ><p class='c8' >315.00</p></td><td class='t8' ><p class='c8' >3,171.60</p></td><td class='t8' ><p class='c8' >0.00</p></td></tr><tr height='20'><td class='t6' ><p class='c6' >海鲜</p></td><td class='t7' ><p class='c7' >5,409.74</p></td><td class='t8' ><p class='c8' >1,087.38</p></td><td class='t8' ><p class='c8' >1,289.16</p></td><td class='t8' ><p class='c8' >3,033.20</p></td></tr><tr height='20'><td class='t6' ><p class='c6' >点心</p></td><td class='t7' ><p class='c7' >4,623.55</p></td><td class='t8' ><p class='c8' >2,131.05</p></td><td class='t8' ><p class='c8' >1,837.10</p></td><td class='t8' ><p class='c8' >655.40</p></td></tr><tr height='20'><td class='t6' ><p class='c6' >特制品</p></td><td class='t7' ><p class='c7' >684.00</p></td><td class='t8' ><p class='c8' >0.00</p></td><td class='t8' ><p class='c8' >684.00</p></td><td class='t8' ><p class='c8' >0.00</p></td></tr><tr height='20'><td class='t6' ><p class='c6' >肉/家禽</p></td><td class='t7' ><p class='c7' >2,941.25</p></td><td class='t8' ><p class='c8' >1,237.90</p></td><td class='t8' ><p class='c8' >1,703.35</p></td><td class='t8' ><p class='c8' >0.00</p></td></tr><tr height='20'><td class='t6' ><p class='c6' >调味品</p></td><td class='t7' ><p class='c7' >3,840.00</p></td><td class='t8' ><p class='c8' >3,180.00</p></td><td class='t8' ><p class='c8' >660.00</p></td><td class='t8' ><p class='c8' >0.00</p></td></tr><tr height='20'><td class='t6' ><p class='c6' >谷类/麦片</p></td><td class='t7' ><p class='c7' >1,897.50</p></td><td class='t8' ><p class='c8' >760.00</p></td><td class='t8' ><p class='c8' >1,137.50</p></td><td class='t8' ><p class='c8' >0.00</p></td></tr><tr height='20'><td class='t6' ><p class='c6' >饮料</p></td><td class='t7' ><p class='c7' >13,015.00</p></td><td class='t8' ><p class='c8' >3,089.00</p></td><td class='t8' ><p class='c8' >8,990.00</p></td><td class='t8' ><p class='c8' >936.00</p></td></tr><tr height='20'><td class='t9'  rowSpan='14' ><p class='c9' >客户</p></td><td class='t10' ><p class='c10' >一诠精密工业</p></td><td class='t11' ><p class='c11' >966.20</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >966.20</p></td></tr><tr height='20'><td class='t10' ><p class='c10' >三川实业有限公司</p></td><td class='t11' ><p class='c11' >1,086.00</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >1,086.00</p></td><td class='t12' ><p class='c12' >0.00</p></td></tr><tr height='20'><td class='t10' ><p class='c10' >业兴</p></td><td class='t11' ><p class='c11' >51.78</p></td><td class='t12' ><p class='c12' >51.78</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >0.00</p></td></tr><tr height='20'><td class='t10' ><p class='c10' >东帝望</p></td><td class='t11' ><p class='c11' >140.00</p></td><td class='t12' ><p class='c12' >140.00</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >0.00</p></td></tr><tr height='20'><td class='t10' ><p class='c10' >保信人寿</p></td><td class='t11' ><p class='c11' >3,658.40</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >3,658.40</p></td></tr><tr height='20'><td class='t10' ><p class='c10' >友恒信托</p></td><td class='t11' ><p class='c11' >2,177.75</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >2,177.75</p></td><td class='t12' ><p class='c12' >0.00</p></td></tr><tr height='20'><td class='t10' ><p class='c10' >学仁贸易</p></td><td class='t11' ><p class='c11' >1,175.00</p></td><td class='t12' ><p class='c12' >1,175.00</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >0.00</p></td></tr><tr height='20'><td class='t10' ><p class='c10' >实翼</p></td><td class='t11' ><p class='c11' >1,465.00</p></td><td class='t12' ><p class='c12' >1,465.00</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >0.00</p></td></tr><tr height='20'><td class='t10' ><p class='c10' >富泰人寿</p></td><td class='t11' ><p class='c11' >2,684.16</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >2,684.16</p></td><td class='t12' ><p class='c12' >0.00</p></td></tr><tr height='20'><td class='t10' ><p class='c10' >建资</p></td><td class='t11' ><p class='c11' >342.00</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >342.00</p></td><td class='t12' ><p class='c12' >0.00</p></td></tr><tr height='20'><td class='t10' ><p class='c10' >悦海</p></td><td class='t11' ><p class='c11' >1,548.00</p></td><td class='t12' ><p class='c12' >1,548.00</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >0.00</p></td></tr><tr height='20'><td class='t10' ><p class='c10' >椅天文化事业</p></td><td class='t11' ><p class='c11' >2,240.00</p></td><td class='t12' ><p class='c12' >2,240.00</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >0.00</p></td></tr><tr height='20'><td class='t10' ><p class='c10' >留学服务中心</p></td><td class='t11' ><p class='c11' >13,182.80</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >13,182.80</p></td><td class='t12' ><p class='c12' >0.00</p></td></tr><tr height='20'><td class='t10' ><p class='c10' >通恒机械</p></td><td class='t11' ><p class='c11' >5,180.55</p></td><td class='t12' ><p class='c12' >5,180.55</p></td><td class='t12' ><p class='c12' >0.00</p></td><td class='t12' ><p class='c12' >0.00</p></td></tr><tr height='20'><td class='t13' colSpan='2' ><p class='c13' >合计</p></td><td class='t14' ><p class='c14' >35,897.64</p></td><td class='t15' ><p class='c15' >11,800.33</p></td><td class='t15' ><p class='c15' >19,472.71</p></td><td class='t15' ><p class='c15' >4,624.60</p></td></tr></table></div></div></div><div id='jsettings' orientation='1' pageWidth='2100' pageHeight='2970' jobSessionId='jt96c1a425' style='display:none' /></div>
+
+
+
+</body>
+</html>

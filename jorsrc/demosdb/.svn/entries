@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2009-10-22T06:39:09.673889Z"
+   url="https://jatoolsopenreport.googlecode.com/svn/trunk/demosdb"
+   last-author="fmyzywork"
+   kind="dir"
+   uuid="335d33a6-bec9-11de-8cd0-f941f5a20a08"
+   repos="https://jatoolsopenreport.googlecode.com/svn"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="mydb.properties"
+   text-time="2009-10-22T06:46:58.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="afdcfe182cd923f081197b37e41d2018"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:46:30.000000Z"/>
+<entry
+   committed-rev="2"
+   name="mydb.log"
+   text-time="2009-10-22T06:46:58.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="0a87655fc8eda34f5839aad8a22aef5f"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:46:30.000000Z"/>
+<entry
+   committed-rev="2"
+   name="mydb.script"
+   text-time="2009-10-22T06:46:58.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="a58c15c6405b6b23057b8ed3ea83ce98"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:46:58.000000Z"/>
+</wc-entries>

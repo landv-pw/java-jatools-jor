@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/jor/src/jatools/engine/printer
+END
+AbstractFlowPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/AbstractFlowPrinter.java
+END
+FlashImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/FlashImage.java
+END
+FillRowPanelPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/FillRowPanelPrinter.java
+END
+BarCodePrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/jor/src/jatools/engine/printer/BarCodePrinter.java
+END
+PanelPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/PanelPrinter.java
+END
+ChartPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/ChartPrinter.java
+END
+CellComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/CellComparator.java
+END
+AbstractPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/AbstractPrinter.java
+END
+Repeater.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/Repeater.java
+END
+PowerTablePrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/PowerTablePrinter.java
+END
+NodePathTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/NodePathTarget.java
+END
+AbstractContainerPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/jor/src/jatools/engine/printer/AbstractContainerPrinter.java
+END
+OneStepCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/OneStepCursor.java
+END
+ReportPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/18/jor/src/jatools/engine/printer/ReportPrinter.java
+END
+PageNumberDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/PageNumberDelegate.java
+END
+PagePrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/PagePrinter.java
+END
+ColumnPanelPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/ColumnPanelPrinter.java
+END
+ReportCacher.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/ReportCacher.java
+END
+LabelPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/LabelPrinter.java
+END
+ImagePrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/ImagePrinter.java
+END
+TextPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/jor/src/jatools/engine/printer/TextPrinter.java
+END
+PrinterVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/PrinterVariable.java
+END
+ExternalEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/ExternalEval.java
+END
+LinePrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/LinePrinter.java
+END
+PrinterVariableProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/PrinterVariableProxy.java
+END
+RowPanelPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/RowPanelPrinter.java
+END
+StyleClassVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/StyleClassVariable.java
+END
+RepeatStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/engine/printer/RepeatStore.java
+END

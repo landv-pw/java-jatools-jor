@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>请选择参数值</title>
+<script>
+<!--
+function openwin() {
+     url = "http://localhost:8080/server?file=jrs/example/parameter.xml&as=applet";
+//	 window.alert(document.form2.southNorth[0].checked);
+	 if(document.form2.southNorth[0].checked)
+	 {
+	 url = url + "&$conti=南美洲";
+	 }else
+	 {
+	   url = url +"&$conti=北美洲";
+	   }
+     window.open ( url, "applet", "height=600, width=850, toolbar=no, menubar=no, scrollbars=no, resizable=yes, location=no, status=no");
+}
+//-->
+</script>
+<style type="text/css">
+<!--
+.style1 {font-size: 14px}
+-->
+</style>
+</head>
+
+<body>
+
+
+<form name="form2" method="post">
+  <p>
+  	<br>
+  	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input name="southNorth" type="radio" value="south" checked>
+    <span class="style1">南美洲</span>    
+    <input name="southNorth" type="radio" value="north">
+    <span class="style1">北美洲</span><br>
+    <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    
+    <input type="button" name="submit" value="  提 交  "  onclick="openwin()"> 
+    <br> 
+</form> 
+
+</body>
+</html>
+

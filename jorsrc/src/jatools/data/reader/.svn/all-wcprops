@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/jor/src/jatools/data/reader
+END
+NodeListCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/data/reader/NodeListCursor.java
+END
+NodeArrayCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/data/reader/NodeArrayCursor.java
+END
+DatasetCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/data/reader/DatasetCursor.java
+END
+PaddingCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/data/reader/PaddingCursor.java
+END
+ScrollableField.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/data/reader/ScrollableField.java
+END
+Index.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/data/reader/Index.java
+END
+CursorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/data/reader/CursorManager.java
+END
+DatasetReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/data/reader/DatasetReader.java
+END
+OrderedDatasetCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/data/reader/OrderedDatasetCursor.java
+END
+AbstractDatasetReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/data/reader/AbstractDatasetReader.java
+END
+ArrayCursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/data/reader/ArrayCursor.java
+END
+Cursor.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/data/reader/Cursor.java
+END
+XPathDatasetReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/data/reader/XPathDatasetReader.java
+END

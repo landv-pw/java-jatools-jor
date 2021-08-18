@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/jor/src/jatools/swingx/dnd
+END
+DNDManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/jor/src/jatools/swingx/dnd/DNDManager.java
+END
+TableMover.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/swingx/dnd/TableMover.java
+END
+DnDList.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/swingx/dnd/DnDList.java
+END
+DnDListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/swingx/dnd/DnDListModel.java
+END
+Selectable.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/swingx/dnd/Selectable.java
+END
+DropEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/jor/src/jatools/swingx/dnd/DropEvent.java
+END
+JatoolsDropTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/jor/src/jatools/swingx/dnd/JatoolsDropTarget.java
+END
+DropListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/swingx/dnd/DropListener.java
+END
+JatoolsDragSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/swingx/dnd/JatoolsDragSource.java
+END
+Moveable.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/swingx/dnd/Moveable.java
+END

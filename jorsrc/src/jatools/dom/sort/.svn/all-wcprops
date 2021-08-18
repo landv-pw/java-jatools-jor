@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/jor/src/jatools/dom/sort
+END
+GroupNodeComparatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/dom/sort/GroupNodeComparatorFactory.java
+END
+ComparatorFactoryCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/dom/sort/ComparatorFactoryCache.java
+END
+ArrayNodeComparatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/dom/sort/ArrayNodeComparatorFactory.java
+END
+NodeComparatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/dom/sort/NodeComparatorFactory.java
+END
+RowNodeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/dom/sort/RowNodeComparator.java
+END
+GroupNodeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/dom/sort/GroupNodeComparator.java
+END
+ArrayNodeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/dom/sort/ArrayNodeComparator.java
+END
+RowNodeComparatorFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/dom/sort/RowNodeComparatorFactory.java
+END

@@ -1,0 +1,17 @@
+
+<jatools:navigator id="_navigator" for_report="report001">
+<%
+    Object _my_navigator = _nagivator;
+%>
+<%@ include file="nav1.jsp" %> 
+</jatools:navigator>
+
+<jatools:container id="_container" for_report="report001" background="#EFEBEF" scroll="false" width="100%" height="80%"/>
+<jatools:zoomer id="_zoomer" for_container='container001'>
+
+
+<% _navigator.render() %> <div> <INPUT TYPE="button" VALUE="放大" ONMOUSEUP="<%=zoomer.zoomInScript%>"/><INPUT ID="zoomnumber" TYPE="TEXT" VALUE="50" SIZE="7" MAXLENGTH="4" ONKEYUP="<%=zoomer.zoomToScript("zoomNumer.value")%>"/><font face="Arial"><font size="2">%</font>
+    </font><INPUT TYPE="button" VALUE="缩小" ONMOUSEUP="<%=zoomer.zoomOutScript() %>"/>&nbsp;<INPUT TYPE="button" VALUE="原始大小" ONMOUSEUP="<%=zoomer.zoomNoScript %>"/></div>
+
+<% _container.render() %>
+

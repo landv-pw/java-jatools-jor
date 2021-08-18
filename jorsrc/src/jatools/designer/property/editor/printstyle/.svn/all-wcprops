@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/property/editor/printstyle
+END
+PageRulePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/jor/src/jatools/designer/property/editor/printstyle/PageRulePanel.java
+END
+LayoutRulePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/jor/src/jatools/designer/property/editor/printstyle/LayoutRulePanel.java
+END
+VisibleRulePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/jor/src/jatools/designer/property/editor/printstyle/VisibleRulePanel.java
+END
+CrossTabRulePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/jor/src/jatools/designer/property/editor/printstyle/CrossTabRulePanel.java
+END
+RepeatRulePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/2/jor/src/jatools/designer/property/editor/printstyle/RepeatRulePanel.java
+END
+PrintStylePropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/jor/src/jatools/designer/property/editor/printstyle/PrintStylePropertyEditor.java
+END
+TextRulePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/jor/src/jatools/designer/property/editor/printstyle/TextRulePanel.java
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox
+END
+BorderToolbar.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/BorderToolbar.java
+END
+BorderChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/BorderChooser.java
+END
+ComboStyleChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/ComboStyleChooser.java
+END
+ColorSelectionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/ColorSelectionPanel.java
+END
+BorderActionWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/BorderActionWorker.java
+END
+ChooserComboPopup.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/ChooserComboPopup.java
+END
+BorderWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/BorderWorker.java
+END
+BorderButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/BorderButton.java
+END
+ColorButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/ColorButton.java
+END
+BorderLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/BorderLabel.java
+END
+ColorLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/ColorLabel.java
+END
+DropDownComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/DropDownComponent.java
+END
+TableBorderWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/TableBorderWorker.java
+END
+ComboBorderChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/ComboBorderChooser.java
+END
+ComboColorChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/ComboColorChooser.java
+END
+SimpleBorderWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/SimpleBorderWorker.java
+END
+BorderIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/BorderIcon.java
+END
+Icon25x25ToggleButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/Icon25x25ToggleButton.java
+END
+SwatchChooserPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/SwatchChooserPanel.java
+END
+SwingBorderEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/SwingBorderEditor.java
+END
+SwingColorEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/SwingColorEditor.java
+END
+ComboThicknessChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/jor/src/jatools/designer/toolbox/ComboThicknessChooser.java
+END

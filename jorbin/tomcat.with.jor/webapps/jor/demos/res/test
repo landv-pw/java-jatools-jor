@@ -1,0 +1,549 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<style>
+.normal{
+	font-family : Arial,Vernada, Tahoma, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #444444;
+	text-decoration: none;
+	line-height: 21px;        
+}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=GB2312">
+<title>杰表 jsp taglib 演示</title>
+</head>
+
+<body>
+
+
+<script>
+_zoomer = new JatoolsZoomer('__jatools_container_div');
+</script>
+<script type="text/javascript" src="/jrs/js/libs.js"></script><div style='display:none'><OBJECT ID="_jatoolsPrinter" CLASSID="CLSID:B43D3361-D975-4BE2-87FE-057188254255" codebase="/jrs/jatoolsPrinter/jatoolsP.dll#version=1,1,3,007"></OBJECT></div><script>
+var _printer=new JatoolsPrinter();
+_printer.for_report='j_report1';
+_printer.print_settings=new Object();
+_printer.print_settings.orientation=2;
+</script>
+<script>
+var _exporter=new JatoolsExporter();
+_exporter.for_report='j_report1';
+</script>
+
+<table border="1" width="100%" id="table1">
+	<tr>
+		<td width="269">
+      
+<input type="button" value="打印预览..." onClick="_printer.printPreview()">
+<input type="button" value="打印..." onClick="_printer.print(true)">
+<input type="button" value="打印" onClick="_printer.print(false)"></td>
+		<td width="242">导出为: 
+ 
+  
+<script>
+function exportChanged()
+{
+    if(export_list.selectedIndex >0)
+    {
+        as = export_list.value ;
+        if(as == 'pdf')
+            _exporter.exportAs('pdf');
+        else if(as == 'xls')
+            _exporter.exportAs('xls');
+        else if(as == 'xls_n')
+            _exporter.exportAs('xls_n');
+        else if(as=='rtf')
+             _exporter.exportAs('rtf');
+        else if(as == 'csv')
+             _exporter.exportAs('csv');
+    }
+}    
+function zoomIn()
+{
+   _zoomer.zoomIn();
+   zoomnumber.value = _zoomer.current;
+}
+
+function zoomOut()
+{
+   _zoomer.zoomOut();
+   zoomnumber.value = _zoomer.current;
+}
+
+function zoomTo(to)
+{
+ 
+   ;
+   zoomnumber.value = _zoomer.current;
+}
+function zoom100(to)
+{
+ 
+     _zoomer.zoomNo();
+     zoomnumber.value = _zoomer.current;
+}
+</script><select name="export_list" onChange="exportChanged()" size="1" >
+<option selected>--请选择导出格式--</option>
+<option value="xls">Excel</option>
+<option value="xls_n">分页的Excel</option>
+<option value="pdf">Pdf</option>
+<option value="rtf">Rtf</option>
+<option value="csv">Csv</option>
+</select>
+
+   
+ </td>
+		<td align="left"> <INPUT TYPE="button" VALUE="放大" ONMOUSEUP="zoomIn()"/> <INPUT ID="zoomnumber" TYPE="TEXT" VALUE="50" SIZE="7" MAXLENGTH="4" ONKEYUP="zoomTo(zoomnumber.value )" name="T1"/><font face="Arial"><font size="2">%</font>
+    </font><INPUT TYPE="button" VALUE="缩小" ONMOUSEUP="zoomOut()"/>&nbsp;<INPUT TYPE="button" VALUE="原始大小" ONMOUSEUP="zoom100()"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+		</td>
+	</tr>
+</table>
+<div id='__jatools_container_div' style="height:90%;width:100%;background:#EFEBEF;" ><style><!--
+*{
+-moz-box-sizing: border-box;
+}
+.jc{position:absolute;overflow:hidden}
+.jnc{position:absolute}
+.j_report1pb{background:white;float: left;overflow:hidden;margin:4;width:502;height:566;border:1px solid blue}
+.j_report1c16{margin-left:2px;margin-bottom:-2px;text-align: center;font-family: Arial;font-size: 12px;}
+.j_report1c12,.j_report1c11,.j_report1c10{margin-left:2px;margin-bottom:-2px;text-align: center;font-family: 宋体;font-size: 12px;color: #333333}
+.j_report1c7,.j_report1c6,.j_report1c5,.j_report1c4,.j_report1c3{margin-left:2px;margin-bottom:-2px;text-align: center;font-family: 宋体;font-size: 14px;color: #333333}
+.j_report1c9{margin-left:2px;margin-bottom:-2px;font-family: 宋体;font-size: 12px;}
+.j_report1c15,.j_report1c8{margin-left:2px;margin-bottom:-2px;font-family: 宋体;font-size: 12px;}
+.j_report1c2{margin-left:2px;margin-bottom:-2px;font-family: 宋体;font-size: 12px;color: #999999}
+.j_report1c1{margin-left:2px;margin-bottom:-2px;font-family: Arial;font-size: 12px;font-weight: bold;color: #999999}
+.j_report1c0{margin-left:2px;margin-bottom:-2px;font-family: 楷体_GB2312;font-size: 26px;font-weight: bold;color: #006699}
+.j_report1c13{margin-left:2px;margin-bottom:-2px;text-align: center;font-family: 宋体;font-size: 12px;color: #333333}
+.j_report1c14{margin-left:2px;margin-bottom:-2px;text-align: center;font-family: 宋体;font-size: 12px;color: #333333}
+.j_report1jb0{position:absolute;line-height:0;border:1px solid #000000;}
+--></style><script>
+j_report1 = new Object();
+j_report1.print_settings=new Object();
+j_report1.print_settings.orientation=1;
+j_report1.print_settings_id='.._webapps_jrs_example_table.xml';
+j_report1.documents=document;
+j_report1.shapesUsed=false;
+j_report1.page_div_prefix='j_report1';
+j_report1.cached_id='11519573658416192.0';
+j_report1.copyrights='杰创软件拥有版权 www.jatools.com';
+</script><div id="j_report1_page_1" class="j_report1pb" ><div id="j_report1page1"><div class="jc" STYLE="left:150; top:94; width:198;height:31"><p class="j_report1c0" style="margin-top:2px;">员工基本信息表</p>
+</div>
+<div class="jc" STYLE="left:179; top:44; width:105;height:15"><p class="j_report1c1" style="margin-top:1px;">www.jatools.com</p>
+</div>
+<div class="jc" STYLE="left:287; top:44; width:90;height:15"><p class="j_report1c2" style="margin-top:1px;">杰创网络报表</p>
+</div>
+<div class="jc" STYLE="left:53; top:148; width:70;height:30;background-color: #F8F8EF"><p class="j_report1c3" style="margin-top:8px;">编号</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:147;width:72;height:31;"></div><div class="jc" STYLE="left:124; top:148; width:80;height:30;background-color: #F8F8EF"><p class="j_report1c4" style="margin-top:8px;">姓名</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:147;width:82;height:31;"></div><div class="jc" STYLE="left:205; top:148; width:56;height:30;background-color: #F8F8EF"><p class="j_report1c5" style="margin-top:8px;">性别</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:147;width:58;height:31;"></div><div class="jc" STYLE="left:262; top:148; width:89;height:30;background-color: #F8F8EF"><p class="j_report1c6" style="margin-top:8px;">出生日期</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:147;width:91;height:31;"></div><div class="jc" STYLE="left:352; top:148; width:89;height:30;background-color: #F8F8EF"><p class="j_report1c7" style="margin-top:8px;">工作日期</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:147;width:91;height:31;"></div><div class="jc" STYLE="left:53; top:148; width:389;height:30"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:178; width:390;height:27"><p class="j_report1c9" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:178; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">1.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:177;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:178; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">刘静</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:177;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:178; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">女</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:177;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:178; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1966年6月6日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:177;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:178; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1984-6-6</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:177;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:178; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:205; width:390;height:27;background-color: #F5F5F5"><p class="j_report1c8" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:205; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">2.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:204;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:205; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">张帅</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:204;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:205; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:204;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:205; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1967年6月12日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:204;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:205; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1985-6-12</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:204;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:205; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:232; width:390;height:27"><p class="j_report1c9" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:232; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">3.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:231;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:232; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">刘英杰</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:231;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:232; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">女</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:231;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:232; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1968年11月11日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:231;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:232; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1986-11-11</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:231;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:232; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:259; width:390;height:27;background-color: #F5F5F5"><p class="j_report1c8" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:259; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">4.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:258;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:259; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">徐毅</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:258;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:259; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:258;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:259; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1969年10月4日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:258;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:259; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1987-10-4</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:258;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:259; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:286; width:390;height:27"><p class="j_report1c9" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:286; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">5.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:285;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:286; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">刘同岳</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:285;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:286; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:285;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:286; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1970年7月1日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:285;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:286; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1988-7-1</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:285;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:286; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:313; width:390;height:27;background-color: #F5F5F5"><p class="j_report1c8" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:313; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">6.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:312;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:313; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">毕宁</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:312;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:313; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">女</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:312;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:313; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1971年12月12日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:312;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:313; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1989-12-12</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:312;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:313; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:340; width:390;height:27"><p class="j_report1c9" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:340; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">7.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:339;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:340; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">阚婷</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:339;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:340; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">女</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:339;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:340; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1972年5月29日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:339;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:340; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1990-5-29</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:339;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:340; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:367; width:390;height:27;background-color: #F5F5F5"><p class="j_report1c8" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:367; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">8.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:366;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:367; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">岳帅</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:366;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:367; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:366;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:367; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1973年6月18日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:366;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:367; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1991-6-18</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:366;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:367; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:394; width:390;height:27"><p class="j_report1c9" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:394; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">9.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:393;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:394; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">焦刚</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:393;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:394; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:393;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:394; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1974年1月19日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:393;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:394; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1992-1-19</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:393;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:394; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:421; width:390;height:27;background-color: #F5F5F5"><p class="j_report1c8" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:421; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">10.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:420;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:421; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">郭蓓</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:420;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:421; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">女</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:420;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:421; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1975年12月30日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:420;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:421; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1993-12-30</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:420;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:421; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:448; width:390;height:27"><p class="j_report1c9" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:448; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">11.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:447;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:448; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">昌巍</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:447;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:448; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">女</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:447;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:448; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1976年2月26日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:447;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:448; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1994-2-26</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:447;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:448; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:375; top:510; width:66;height:15"><p class="j_report1c16" style="margin-top:1px;">1</p>
+</div>
+</div></div><div id="j_report1_page_2" class="j_report1pb" ><div id="j_report1page2"><div class="jc" STYLE="left:53; top:37; width:70;height:30;background-color: #F8F8EF"><p class="j_report1c3" style="margin-top:8px;">编号</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:36;width:72;height:31;"></div><div class="jc" STYLE="left:124; top:37; width:80;height:30;background-color: #F8F8EF"><p class="j_report1c4" style="margin-top:8px;">姓名</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:36;width:82;height:31;"></div><div class="jc" STYLE="left:205; top:37; width:56;height:30;background-color: #F8F8EF"><p class="j_report1c5" style="margin-top:8px;">性别</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:36;width:58;height:31;"></div><div class="jc" STYLE="left:262; top:37; width:89;height:30;background-color: #F8F8EF"><p class="j_report1c6" style="margin-top:8px;">出生日期</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:36;width:91;height:31;"></div><div class="jc" STYLE="left:352; top:37; width:89;height:30;background-color: #F8F8EF"><p class="j_report1c7" style="margin-top:8px;">工作日期</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:36;width:91;height:31;"></div><div class="jc" STYLE="left:53; top:37; width:389;height:30"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:67; width:390;height:27;background-color: #F5F5F5"><p class="j_report1c8" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:67; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">12.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:66;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:67; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">张静婕</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:66;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:67; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">女</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:66;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:67; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1977年5月29日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:66;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:67; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1995-5-29</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:66;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:67; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:94; width:390;height:27"><p class="j_report1c9" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:94; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">13.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:93;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:94; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">徐辑磊</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:93;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:94; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:93;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:94; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1978年4月28日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:93;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:94; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1996-4-28</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:93;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:94; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:121; width:390;height:27;background-color: #F5F5F5"><p class="j_report1c8" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:121; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">14.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:120;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:121; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">冯仲龄</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:120;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:121; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:120;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:121; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1979年2月2日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:120;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:121; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1997-2-2</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:120;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:121; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:148; width:390;height:27"><p class="j_report1c9" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:148; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">15.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:147;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:148; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">梁雯雯</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:147;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:148; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">女</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:147;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:148; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1980年7月25日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:147;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:148; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1998-7-25</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:147;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:148; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:175; width:390;height:27;background-color: #F5F5F5"><p class="j_report1c8" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:175; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">16.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:174;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:175; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">傅园园</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:174;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:175; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">女</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:174;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:175; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1981年9月21日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:174;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:175; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1999-9-21</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:174;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:175; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:202; width:390;height:27"><p class="j_report1c9" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:202; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">17.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:201;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:202; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">王琦</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:201;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:202; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:201;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:202; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1982年8月8日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:201;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:202; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">2000-8-8</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:201;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:202; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:229; width:390;height:27;background-color: #F5F5F5"><p class="j_report1c8" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:229; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">18.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:228;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:229; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">石路平</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:228;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:229; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:228;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:229; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1983年9月27日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:228;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:229; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">2001-9-27</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:228;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:229; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:256; width:390;height:27"><p class="j_report1c9" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:256; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">19.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:255;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:256; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">刘超</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:255;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:256; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:255;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:256; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1984年5月5日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:255;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:256; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">2002-5-5</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:255;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:256; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:283; width:390;height:27;background-color: #F5F5F5"><p class="j_report1c8" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:283; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">20.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:282;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:283; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">孙艳红</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:282;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:283; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">女</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:282;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:283; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1985年11月23日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:282;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:283; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">2003-11-23</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:282;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:283; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:310; width:390;height:27"><p class="j_report1c9" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:310; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">1.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:309;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:310; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">王宝森</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:309;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:310; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:309;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:310; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1966年4月22日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:309;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:310; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1984-4-22</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:309;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:310; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:337; width:390;height:27;background-color: #F5F5F5"><p class="j_report1c8" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:337; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">2.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:336;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:337; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">焦方利</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:336;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:337; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:336;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:337; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1967年10月22日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:336;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:337; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1985-10-22</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:336;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:337; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:364; width:390;height:27"><p class="j_report1c9" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:364; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">3.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:363;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:364; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">郇丹</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:363;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:364; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:363;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:364; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1968年10月22日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:363;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:364; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1986-10-22</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:363;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:364; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:391; width:390;height:27;background-color: #F5F5F5"><p class="j_report1c8" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:391; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">4.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:390;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:391; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">刘磊</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:390;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:391; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:390;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:391; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1969年12月18日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:390;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:391; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1987-12-18</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:390;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:391; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:418; width:390;height:27"><p class="j_report1c9" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:418; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">5.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:417;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:418; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">张景</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:417;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:418; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:417;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:418; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1970年3月9日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:417;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:418; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1988-3-9</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:417;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:418; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:445; width:390;height:27;background-color: #F5F5F5"><p class="j_report1c8" style="margin-top:7px;">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:53; top:445; width:70;height:27"><p class="j_report1c10" style="margin-top:7px;">6.0</p>
+</div>
+<div class="j_report1jb0" style="left:52;top:444;width:72;height:28;"></div><div class="jc" STYLE="left:124; top:445; width:80;height:27"><p class="j_report1c11" style="margin-top:7px;">李振</p>
+</div>
+<div class="j_report1jb0" style="left:123;top:444;width:82;height:28;"></div><div class="jc" STYLE="left:205; top:445; width:56;height:27"><p class="j_report1c12" style="margin-top:7px;">男</p>
+</div>
+<div class="j_report1jb0" style="left:204;top:444;width:58;height:28;"></div><div class="jc" STYLE="left:262; top:445; width:89;height:27"><p class="j_report1c13" style="margin-top:7px;">1971年11月23日</p>
+</div>
+<div class="j_report1jb0" style="left:261;top:444;width:91;height:28;"></div><div class="jc" STYLE="left:352; top:445; width:89;height:27"><p class="j_report1c14" style="margin-top:7px;">1989-11-23</p>
+</div>
+<div class="j_report1jb0" style="left:351;top:444;width:91;height:28;"></div><div class="jc" STYLE="left:53; top:445; width:389;height:27"><p class="j_report1c0">&nbsp;</p>
+</div>
+<div class="jc" STYLE="left:375; top:510; width:66;height:15"><p class="j_report1c16" style="margin-top:1px;">2</p>
+</div>
+</div></div><script>__jatools_report1=new Object();
+ __jatools_report1.pageCount=2;
+</script></div>&nbsp;&nbsp;
+
+<p class="normal">
+
+
+
+      
+
+
+
+
+</p>
+
+</body>
+</html>

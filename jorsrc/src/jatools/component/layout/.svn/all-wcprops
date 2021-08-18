@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/jor/src/jatools/component/layout
+END
+FreeLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/component/layout/FreeLayout.java
+END
+LocationComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/component/layout/LocationComparator.java
+END
+PrinterLocationComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/jor/src/jatools/component/layout/PrinterLocationComparator.java
+END
+PanelRowLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/component/layout/PanelRowLayout.java
+END
+LayoutManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/component/layout/LayoutManager.java
+END
+PanelColumnLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/component/layout/PanelColumnLayout.java
+END

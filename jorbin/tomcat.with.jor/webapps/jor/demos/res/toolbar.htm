@@ -1,0 +1,33 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>工具栏</title>
+<script type='text/javascript' src='dhtml/toolbox.js'></script>
+<script LANGUAGE="JavaScript"><!-- 
+   var _toolbox;
+   function loadtoolbox()
+   {
+       _toolbox=new Toolbox(form1,"http://localhost:8080/jrs/exportserver");
+   }
+--></script>
+<base target="main">
+</head>
+<body onload="loadtoolbox()" >
+ <form action="server?file=../webapps/jrs/example/parameter.xml&as=dhtml" 
+    method="POST" name="form1" id="form1" onSubmit="return _toolbox.cachedversion()" >
+    <p class="normal">
+       <a href="javascript:;" onclick="_toolbox.exportAs('xls')">excel导出</a> 
+       <a href="javascript:;" onclick="_toolbox.exportAs('pdf')">pdf导出</a> 
+       <a href="javascript:;" onclick="_toolbox.exportAs('csv')">csv导出</a> 
+       <a href="javascript:;" onclick="_toolbox.exportAs('rtf')">rtf导出</a> 
+       <a href="javascript:;" onclick="_toolbox.exportAs('ps')">postscript导出</a> 
+       <a href="javascript:;" onclick="_toolbox.print()">打印</a>    
+    </p>
+    <p class="normal">所在洲
+       <input type="text" name="$conti" value="南美洲">
+       <input name="Input" type="submit" value="查询">
+    </p>
+ </form>
+ <iframe src='' width=0 height=0 name='printer-iframe'/>
+</body>
+</html>

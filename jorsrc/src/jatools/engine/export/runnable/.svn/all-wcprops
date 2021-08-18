@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/engine/export/runnable
+END
+PageCollectionRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/jor/src/jatools/engine/export/runnable/PageCollectionRunnable.java
+END
+PdfRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/engine/export/runnable/PdfRunnable.java
+END
+RtfRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/engine/export/runnable/RtfRunnable.java
+END
+ExportRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/jor/src/jatools/engine/export/runnable/ExportRunnable.java
+END
+HtmlRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/engine/export/runnable/HtmlRunnable.java
+END
+XlsRunnable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/engine/export/runnable/XlsRunnable.java
+END

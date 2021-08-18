@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/jor/src/jatools/resources
+END
+resources_zh_TW.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/resources/resources_zh_TW.properties
+END
+resources.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/resources/resources.properties
+END
+resources_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/resources/resources_zh_CN.properties
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/resources/Messages.java
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/resources/log4j.properties
+END

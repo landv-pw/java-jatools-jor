@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/jor/src/jatools/designer/export
+END
+InputProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/export/InputProcessor.java
+END
+ExportPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/jor/src/jatools/designer/export/ExportPanel.java
+END
+LocalReportJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/export/LocalReportJob.java
+END
+ProgressDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/export/ProgressDialog.java
+END
+ProgressFan.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/designer/export/ProgressFan.java
+END
+ProcessorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/designer/export/ProcessorManager.java
+END

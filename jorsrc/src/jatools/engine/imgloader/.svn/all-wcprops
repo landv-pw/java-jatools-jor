@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/jor/src/jatools/engine/imgloader
+END
+ImageSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/engine/imgloader/ImageSource.java
+END
+AwtImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/engine/imgloader/AwtImageLoader.java
+END
+ImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/engine/imgloader/ImageLoader.java
+END
+PainterImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/engine/imgloader/PainterImageLoader.java
+END
+AbstractImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/jor/src/jatools/engine/imgloader/AbstractImageLoader.java
+END
+HtmlImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/engine/imgloader/HtmlImageLoader.java
+END

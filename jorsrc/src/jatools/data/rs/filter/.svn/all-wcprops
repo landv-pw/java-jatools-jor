@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/jor/src/jatools/data/rs/filter
+END
+QueryWhereVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/data/rs/filter/QueryWhereVisitor.java
+END
+FilterParserException.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/jor/src/jatools/data/rs/filter/FilterParserException.java
+END
+FilterParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/data/rs/filter/FilterParser.java
+END
+Constraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/data/rs/filter/Constraint.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/data/rs/filter/Filter.java
+END
+QMark.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/jor/src/jatools/data/rs/filter/QMark.java
+END
+StreamKeywordTokenizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/jor/src/jatools/data/rs/filter/StreamKeywordTokenizer.java
+END

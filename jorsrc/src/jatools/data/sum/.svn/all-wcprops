@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/jor/src/jatools/data/sum
+END
+SubstringToAllField.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/data/sum/SubstringToAllField.java
+END
+AvgField.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/data/sum/AvgField.java
+END
+Sum.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/jor/src/jatools/data/sum/Sum.java
+END
+MinField.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/data/sum/MinField.java
+END
+SumField.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/data/sum/SumField.java
+END
+MaxField.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/data/sum/MaxField.java
+END
+CountField.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/data/sum/CountField.java
+END
+DistinctCountField.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/data/sum/DistinctCountField.java
+END

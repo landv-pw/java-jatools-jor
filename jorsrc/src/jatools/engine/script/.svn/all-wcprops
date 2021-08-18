@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/jor/src/jatools/engine/script
+END
+ReportContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/engine/script/ReportContext.java
+END
+TemplateStringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/engine/script/TemplateStringUtil.java
+END
+DebugOff.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/engine/script/DebugOff.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/engine/script/Context.java
+END
+Script.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/jor/src/jatools/engine/script/Script.java
+END
+ForEach.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/engine/script/ForEach.java
+END
+GlobalScripts.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19/jor/src/jatools/engine/script/GlobalScripts.java
+END
+SystemScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/engine/script/SystemScript.java
+END
+AxisNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/engine/script/AxisNode.java
+END
+KeyStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/18/jor/src/jatools/engine/script/KeyStack.java
+END
+SimpleScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/engine/script/SimpleScript.java
+END

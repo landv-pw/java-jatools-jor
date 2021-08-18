@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/jor/src/jatools/accessor
+END
+ProtectPublic.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/accessor/ProtectPublic.java
+END
+PropertyDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/accessor/PropertyDescriptor.java
+END
+PropertyAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/accessor/PropertyAccessor.java
+END
+PropertyAccessorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/accessor/PropertyAccessorWrapper.java
+END
+AutoAccessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/accessor/AutoAccessor.java
+END
+AccessorBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/accessor/AccessorBase.java
+END

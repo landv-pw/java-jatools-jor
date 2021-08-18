@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/jor/src/jatools/io
+END
+FileResourceOutputFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/io/FileResourceOutputFactory.java
+END
+ResourceOutputFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/io/ResourceOutputFactory.java
+END
+DefaultResourceOutputFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/io/DefaultResourceOutputFactory.java
+END
+FileResourceOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/io/FileResourceOutput.java
+END
+ResourceOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/io/ResourceOutput.java
+END
+ByteArrayResourceOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/io/ByteArrayResourceOutput.java
+END
+SessionedFileResourceOutputFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/jor/src/jatools/io/SessionedFileResourceOutputFactory.java
+END

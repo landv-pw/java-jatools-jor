@@ -1,0 +1,27 @@
+2009-09-09 15:57:10 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [jatools.ppp.User]; using defaults.
+2009-09-09 15:57:10 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [jatools.ppp.SheetTemplate]; using defaults.
+2009-09-09 15:57:10 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [jatools.ppp.Address]; using defaults.
+2009-09-09 15:57:11 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [org.hibernate.cache.UpdateTimestampsCache]; using defaults.
+2009-09-09 15:57:11 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [org.hibernate.cache.StandardQueryCache]; using defaults.
+2009-09-09 16:16:36 [DEBUG] jatools.ppp.SecurityFilter  - Request url:/batchprint.action?thirdPartyOpener=true
+2009-09-09 16:16:36 [DEBUG] jatools.ppp.SecurityFilter  - Request url:/batchprint.action?thirdPartyOpener=true
+2009-09-09 16:16:36 [WARN ] com.opensymphony.xwork2.ognl.OgnlValueStack  - Could not find property [struts.valueStack]
+2009-09-09 16:16:37 [DEBUG] jatools.ppp.SecurityFilter  - Request url:/WEB-INF/tpl/batchInput.jsp?thirdPartyOpener=true
+2009-09-09 16:16:37 [DEBUG] jatools.ppp.SecurityFilter  - Request url:/WEB-INF/tpl/batchInput.jsp?thirdPartyOpener=true
+2009-09-09 16:16:37 [WARN ] com.opensymphony.xwork2.ognl.OgnlValueStack  - Could not find property [org.apache.catalina.jsp_file]
+2009-09-09 16:17:02 [DEBUG] jatools.ppp.SecurityFilter  - Request url:/batchprint.action?thirdPartyOpener=true
+2009-09-09 16:17:02 [DEBUG] jatools.ppp.SecurityFilter  - Request url:/batchprint.action?thirdPartyOpener=true
+2009-09-09 16:17:02 [WARN ] com.opensymphony.xwork2.ognl.OgnlValueStack  - Could not find property [struts.valueStack]
+2009-09-09 16:17:03 [DEBUG] jatools.ppp.SecurityFilter  - Request url:/WEB-INF/tpl/batchInput.jsp?thirdPartyOpener=true
+2009-09-09 16:17:03 [DEBUG] jatools.ppp.SecurityFilter  - Request url:/WEB-INF/tpl/batchInput.jsp?thirdPartyOpener=true
+2009-09-09 16:17:03 [WARN ] com.opensymphony.xwork2.ognl.OgnlValueStack  - Could not find property [org.apache.catalina.jsp_file]
+2009-09-09 23:16:58 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [jatools.ppp.User]; using defaults.
+2009-09-09 23:16:59 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [jatools.ppp.SheetTemplate]; using defaults.
+2009-09-09 23:16:59 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [jatools.ppp.Address]; using defaults.
+2009-09-09 23:17:00 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [org.hibernate.cache.UpdateTimestampsCache]; using defaults.
+2009-09-09 23:17:00 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [org.hibernate.cache.StandardQueryCache]; using defaults.
+2009-09-09 23:20:17 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [jatools.ppp.User]; using defaults.
+2009-09-09 23:20:18 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [jatools.ppp.SheetTemplate]; using defaults.
+2009-09-09 23:20:18 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [jatools.ppp.Address]; using defaults.
+2009-09-09 23:20:18 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [org.hibernate.cache.UpdateTimestampsCache]; using defaults.
+2009-09-09 23:20:18 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [org.hibernate.cache.StandardQueryCache]; using defaults.

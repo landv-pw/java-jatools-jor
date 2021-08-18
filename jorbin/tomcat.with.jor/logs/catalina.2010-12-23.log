@@ -1,0 +1,30 @@
+2010-12-23 17:47:04 org.apache.catalina.startup.Embedded initDirs
+严重: Cannot find specified temporary folder at H:\backup\jor.bin\tomcat.with.jor\temp
+2010-12-23 17:47:05 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: The Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\jdk1.5.0_06\bin;.;C:\WINDOWS\system32;C:\WINDOWS;C:\oracle\product\10.1.0\bin;C:\Program Files\ARM\ADSv1_2\bin;C:\oracle;C:\oracle\product\10.1.0\Db_1\bin;C:\Program Files\Java\jre6\bin;C:\Program Files\PC Connectivity Solution\;E:\oracle10c;c:/mingw/bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;D:\builder\ant\bin;C:\Program Files\Microsoft SQL Server\80\Tools\BINN;C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin;C:\Program Files\Jasob.com\Jasob 2.1;h:\flex\bin;D:\builder\jrs_2008.eval.with_tomcat\bin;D:\agntctrl.win_ia32-TPTP-4.2.2\bin;C:\Program Files\Darwin Streaming Server;C:\Program Files\TortoiseHg;C:\Program Files\SinoVoice\jTTS 5.0 Desktop\Bin;C:\Program Files\QuickTime\QTSystem\;C:\Program Files\Common Files\Thunder Network\KanKan\Codecs
+2010-12-23 17:47:05 org.apache.coyote.http11.Http11BaseProtocol init
+信息: Initializing Coyote HTTP/1.1 on http-8080
+2010-12-23 17:47:05 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 992 ms
+2010-12-23 17:47:05 org.apache.catalina.core.StandardService start
+信息: Starting service Catalina
+2010-12-23 17:47:05 org.apache.catalina.core.StandardEngine start
+信息: Starting Servlet Engine: Apache Tomcat/5.5.27
+2010-12-23 17:47:05 org.apache.catalina.core.StandardHost start
+信息: XML validation disabled
+2010-12-23 17:47:06 org.apache.catalina.loader.WebappClassLoader validateJarFile
+信息: validateJarFile(H:\backup\jor.bin\tomcat.with.jor\webapps\jor\WEB-INF\lib\jsp-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/jsp/JspPage.class
+2010-12-23 17:47:06 org.apache.catalina.loader.WebappClassLoader validateJarFile
+信息: validateJarFile(H:\backup\jor.bin\tomcat.with.jor\webapps\jor\WEB-INF\lib\servlet-api.jar) - jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class
+2010-12-23 17:47:09 org.apache.coyote.http11.Http11BaseProtocol start
+信息: Starting Coyote HTTP/1.1 on http-8080
+2010-12-23 17:47:09 org.apache.jk.common.ChannelSocket init
+信息: JK: ajp13 listening on /0.0.0.0:8009
+2010-12-23 17:47:09 org.apache.jk.server.JkMain start
+信息: Jk running ID=0 time=0/90  config=null
+2010-12-23 17:47:09 org.apache.catalina.storeconfig.StoreLoader load
+信息: Find registry server-registry.xml at classpath resource
+2010-12-23 17:47:09 org.apache.catalina.startup.Catalina start
+信息: Server startup in 4456 ms
+2010-12-23 17:49:32 org.apache.coyote.http11.Http11BaseProtocol pause
+信息: Pausing Coyote HTTP/1.1 on http-8080

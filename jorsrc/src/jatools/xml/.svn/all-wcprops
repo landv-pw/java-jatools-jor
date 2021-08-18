@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/jor/src/jatools/xml
+END
+XmlSerializerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/xml/XmlSerializerFactory.java
+END
+XmlReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/jor/src/jatools/xml/XmlReader.java
+END
+XmlSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/xml/XmlSerializer.java
+END
+XmlBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/jor/src/jatools/xml/XmlBase.java
+END
+XmlWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/jor/src/jatools/xml/XmlWriter.java
+END

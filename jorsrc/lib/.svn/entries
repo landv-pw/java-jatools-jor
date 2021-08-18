@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2009-10-22T06:39:09.673889Z"
+   url="https://jatoolsopenreport.googlecode.com/svn/trunk/lib"
+   last-author="fmyzywork"
+   kind="dir"
+   uuid="335d33a6-bec9-11de-8cd0-f941f5a20a08"
+   repos="https://jatoolsopenreport.googlecode.com/svn"
+   revision="2"/>
+<entry
+   committed-rev="2"
+   name="mysql.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="10ade57dcd44236a33691c9ee2e31b8f"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:43:48.000000Z"/>
+<entry
+   committed-rev="2"
+   name="MSBASE.JAR"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="f78e4062e944d3692384625eff2dcc9d"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:43:50.000000Z"/>
+<entry
+   committed-rev="2"
+   name="xercesImpl.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="53c0a04a4efb20d52249155a312e91d9"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:44:00.000000Z"/>
+<entry
+   committed-rev="2"
+   name="MSUTIL.JAR"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="bb22d56710f3fa58b27d29ac23f9945b"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:44:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="hsqldb.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="a6569867047c20268df5aebafdb6ae4e"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:44:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="log4j-1.2.8.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="18a4ca847248e5b8606325684342701c"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:44:26.000000Z"/>
+<entry
+   committed-rev="2"
+   name="commons-httpclient-2.0.1.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="643665c81ad3436de3aba5f94a813264"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:44:24.000000Z"/>
+<entry
+   committed-rev="2"
+   name="swingx-0.9.2.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="5ca5fcf7f661ac08d21582a20cac907a"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:44:20.000000Z"/>
+<entry
+   committed-rev="2"
+   name="jaxen1.1.1.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="c11dd7f72cf10087808ee185537e4167"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:44:28.000000Z"/>
+<entry
+   committed-rev="2"
+   name="commons-collections-3.0.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="87e27d2ba688c70565f2590946ae7bb6"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:44:32.000000Z"/>
+<entry
+   committed-rev="2"
+   name="sybase.JAR"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="88a078920967b45a984dce93dd1af577"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:44:56.000000Z"/>
+<entry
+   committed-rev="2"
+   name="ojdbc14.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="219e4c6f2ba5d066fedfd78697847054"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:44:48.000000Z"/>
+<entry
+   committed-rev="2"
+   name="mssqlserver.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="2c38a6e018c935aa91bbf994a05d7abb"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:44:32.000000Z"/>
+<entry
+   committed-rev="2"
+   name="commons-lang-2.0.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="4a9688bc0035bcb2b581ab018998db31"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:44:58.000000Z"/>
+<entry
+   committed-rev="2"
+   name="xmlParserAPIs.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="2651f9f7c39e3524f3e2c394625ac63a"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:44:58.000000Z"/>
+<entry
+   committed-rev="2"
+   name="commons-logging-1.0.1.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="e1b1720a761ca36eaa47e1c7d802e676"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:45:00.000000Z"/>
+<entry
+   committed-rev="2"
+   name="servlet-api.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="041419ed42b9191d2729073232aad7ea"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:45:00.000000Z"/>
+<entry
+   committed-rev="2"
+   name="bsh2.0.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="d119e22184112b29f681bdc7b45df1c7"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:45:04.000000Z"/>
+<entry
+   committed-rev="2"
+   name="jxl.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="5a5c8ffd959b98b599af7eebcd76d3f7"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:45:12.000000Z"/>
+<entry
+   committed-rev="2"
+   name="itext.jar"
+   text-time="2009-10-22T06:45:22.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="73f0d47fff182e62e4612f5d49a8af57"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:45:20.000000Z"/>
+<entry
+   committed-rev="2"
+   name="commons-beanutils.jar"
+   text-time="2009-10-22T06:45:24.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="79f469610dc0f76ee27a74f198858b6b"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:45:22.000000Z"/>
+<entry
+   committed-rev="2"
+   name="jsp-api.jar"
+   text-time="2009-10-22T06:45:24.000000Z"
+   committed-date="2009-10-22T06:39:09.673889Z"
+   checksum="76da369ed350701072a86af42f3750a7"
+   last-author="fmyzywork"
+   kind="file"
+   prop-time="2009-10-22T06:45:22.000000Z"/>
+</wc-entries>

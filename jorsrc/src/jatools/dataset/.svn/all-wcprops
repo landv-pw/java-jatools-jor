@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/jor/src/jatools/dataset
+END
+RangeRowSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13/jor/src/jatools/dataset/RangeRowSet.java
+END
+IndexView.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/dataset/IndexView.java
+END
+CustomComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/dataset/CustomComparator.java
+END
+DatasetException.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/dataset/DatasetException.java
+END
+FilteredCrossIndexField.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/18/jor/src/jatools/dataset/FilteredCrossIndexField.java
+END
+RowsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/dataset/RowsService.java
+END
+CrossGroupBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/dataset/CrossGroupBuilder.java
+END
+RowsVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/dataset/RowsVector.java
+END
+IndexBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/18/jor/src/jatools/dataset/IndexBuilder.java
+END
+RowPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/jor/src/jatools/dataset/RowPath.java
+END
+RandomRowSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13/jor/src/jatools/dataset/RandomRowSet.java
+END
+CrossIndexField.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/18/jor/src/jatools/dataset/CrossIndexField.java
+END
+RowSetBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/dataset/RowSetBuilder.java
+END
+CrossRowSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/18/jor/src/jatools/dataset/CrossRowSet.java
+END
+RowComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/dataset/RowComparator.java
+END
+RowBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/dataset/RowBuffer.java
+END
+FilterSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/dataset/FilterSet.java
+END
+RowFieldComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/dataset/RowFieldComparator.java
+END
+Row.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/jor/src/jatools/dataset/Row.java
+END
+KeyExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/dataset/KeyExpression.java
+END
+Star.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/jor/src/jatools/dataset/Star.java
+END
+CrossIndexView.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/dataset/CrossIndexView.java
+END
+SimpleReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/jor/src/jatools/dataset/SimpleReader.java
+END
+StreamService.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/dataset/StreamService.java
+END
+RowMeta.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/jor/src/jatools/dataset/RowMeta.java
+END
+DatasetBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/dataset/DatasetBase.java
+END
+ScriptableRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/dataset/ScriptableRow.java
+END
+RowsComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/dataset/RowsComparator.java
+END
+RowSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/13/jor/src/jatools/dataset/RowSet.java
+END
+Dataset.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/jor/src/jatools/dataset/Dataset.java
+END
+GroupView.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/dataset/GroupView.java
+END
+Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/18/jor/src/jatools/dataset/Key.java
+END
+CrossIndexBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/18/jor/src/jatools/dataset/CrossIndexBuilder.java
+END
+DatasetPrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/dataset/DatasetPrinter.java
+END
+DatasetFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/dataset/DatasetFilter.java
+END
+UserColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/dataset/UserColumn.java
+END
+Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/jor/src/jatools/dataset/Column.java
+END

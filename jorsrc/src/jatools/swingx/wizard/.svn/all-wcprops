@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/jor/src/jatools/swingx/wizard
+END
+WizardInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/jor/src/jatools/swingx/wizard/WizardInput.java
+END
+WizardOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/jor/src/jatools/swingx/wizard/WizardOutput.java
+END
+AbstractWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/jor/src/jatools/swingx/wizard/AbstractWizard.java
+END
+WizardCellEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/jor/src/jatools/swingx/wizard/WizardCellEditor.java
+END
+WizardEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/jor/src/jatools/swingx/wizard/WizardEditor.java
+END

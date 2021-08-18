@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/jor/src/jatools/data/reader/csv
+END
+CSVWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/jor/src/jatools/data/reader/csv/CSVWriter.java
+END
+CsvParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/jor/src/jatools/data/reader/csv/CsvParser.java
+END
+CsvReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/jor/src/jatools/data/reader/csv/CsvReader.java
+END

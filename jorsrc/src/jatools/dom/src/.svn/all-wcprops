@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/jor/src/jatools/dom/src
+END
+RowElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/dom/src/RowElement.java
+END
+GroupNodeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/dom/src/GroupNodeSource.java
+END
+ArrayNodeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/dom/src/ArrayNodeSource.java
+END
+DocumentNodeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/dom/src/DocumentNodeSource.java
+END
+NodeSource-i.ucd
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/dom/src/NodeSource-i.ucd
+END
+NodeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/dom/src/NodeSource.java
+END
+XmlNodeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/dom/src/XmlNodeSource.java
+END
+CrossIndexNodeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/dom/src/CrossIndexNodeSource.java
+END
+NodeSource-i.uml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/dom/src/NodeSource-i.uml
+END
+RootNodeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/dom/src/RootNodeSource.java
+END
+DatasetNodeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/dom/src/DatasetNodeSource.java
+END
+IndexNodeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/dom/src/IndexNodeSource.java
+END
+RowNodeSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/dom/src/RowNodeSource.java
+END

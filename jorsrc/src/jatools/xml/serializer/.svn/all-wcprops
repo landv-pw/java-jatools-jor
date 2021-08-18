@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer
+END
+StringArraySerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/StringArraySerializer.java
+END
+FontSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/FontSerializer.java
+END
+PrimitiveSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/PrimitiveSerializer.java
+END
+XmlReadListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/XmlReadListener.java
+END
+ListSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/ListSerializer.java
+END
+MapSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/MapSerializer.java
+END
+ColorSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/ColorSerializer.java
+END
+ArraySerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/ArraySerializer.java
+END
+ContainerSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/ContainerSerializer.java
+END
+ListenToXmlRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/ListenToXmlRead.java
+END
+ClassResolvableSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/ClassResolvableSerializer.java
+END
+XmlWriteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/XmlWriteListener.java
+END
+PointSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/PointSerializer.java
+END
+IntArraySerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/IntArraySerializer.java
+END
+ClassResolvable.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/ClassResolvable.java
+END
+CollectionSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/CollectionSerializer.java
+END
+PropertiesSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/PropertiesSerializer.java
+END
+AccessorSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/AccessorSerializer.java
+END
+ListenToXmlWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/ListenToXmlWrite.java
+END
+AbstractSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/AbstractSerializer.java
+END
+RectangleSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/xml/serializer/RectangleSerializer.java
+END

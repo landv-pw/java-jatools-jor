@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/jor/src/jatools/engine/css/rule
+END
+PageRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/engine/css/rule/PageRule.java
+END
+LayoutRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/engine/css/rule/LayoutRule.java
+END
+VisibleRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/engine/css/rule/VisibleRule.java
+END
+CrossTabRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/engine/css/rule/CrossTabRule.java
+END
+RepeatRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/engine/css/rule/RepeatRule.java
+END
+AbstractRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/engine/css/rule/AbstractRule.java
+END
+TextRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/engine/css/rule/TextRule.java
+END

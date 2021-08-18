@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/jor/src/jatools/dom/field
+END
+GroupField.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/jor/src/jatools/dom/field/GroupField.java
+END
+NodeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/dom/field/NodeProvider.java
+END
+ValuesField.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/jor/src/jatools/dom/field/ValuesField.java
+END
+AbstractValueField.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/dom/field/AbstractValueField.java
+END
+AbstractField.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/dom/field/AbstractField.java
+END
+FixedNodeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/dom/field/FixedNodeField.java
+END
+NodeFieldUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/dom/field/NodeFieldUtils.java
+END
+IndexField.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/18/jor/src/jatools/dom/field/IndexField.java
+END
+RowField.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/dom/field/RowField.java
+END
+SimpleValuesField.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/dom/field/SimpleValuesField.java
+END
+AbstractValuesField.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/dom/field/AbstractValuesField.java
+END
+RowSetField.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/dom/field/RowSetField.java
+END
+DatasetField.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5/jor/src/jatools/dom/field/DatasetField.java
+END
+NodeField.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/dom/field/NodeField.java
+END
+FilteredIndexField.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/dom/field/FilteredIndexField.java
+END
+FixedIndexField.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/dom/field/FixedIndexField.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/jor/src/jatools/designer/layer/drag
+END
+MultipleMoveLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/jor/src/jatools/designer/layer/drag/MultipleMoveLayer.java
+END
+SelectedComponentsResizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/jor/src/jatools/designer/layer/drag/SelectedComponentsResizer.java
+END
+MoveLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/designer/layer/drag/MoveLayer.java
+END
+Resizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/designer/layer/drag/Resizer.java
+END
+FrameSelectLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/jor/src/jatools/designer/layer/drag/FrameSelectLayer.java
+END
+ResizeLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/designer/layer/drag/ResizeLayer.java
+END

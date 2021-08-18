@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/jor/src/jatools/designer
+END
+UndoManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/jor/src/jatools/designer/UndoManager.java
+END
+CurrentReportsTreePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/jor/src/jatools/designer/CurrentReportsTreePanel.java
+END
+PeerSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/designer/PeerSelection.java
+END
+PropertyEditorAndRendererSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/jor/src/jatools/designer/PropertyEditorAndRendererSupport.java
+END
+DefaultReportsTreePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/jor/src/jatools/designer/DefaultReportsTreePanel.java
+END
+ReaderContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/designer/ReaderContainer.java
+END
+EditorPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/jor/src/jatools/designer/EditorPanel.java
+END
+TooltipPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/TooltipPropertyEditor.java
+END
+JFileTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/designer/JFileTree.java
+END
+DocumentVariableNameChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/jor/src/jatools/designer/DocumentVariableNameChecker.java
+END
+TagSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/jor/src/jatools/designer/TagSelector.java
+END
+PageSetupPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/designer/PageSetupPanel.java
+END
+DocumentSettingsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/jor/src/jatools/designer/DocumentSettingsDialog.java
+END
+App.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/jor/src/jatools/designer/App.java
+END
+SelectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/designer/SelectionManager.java
+END
+SummaryFieldDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/designer/SummaryFieldDialog.java
+END
+EditorView.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/designer/EditorView.java
+END
+InplaceEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/designer/InplaceEditor.java
+END
+DocumentVariableNamePicker.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/designer/DocumentVariableNamePicker.java
+END
+LayoutAfterUndo.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/designer/LayoutAfterUndo.java
+END
+VariableTreeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/VariableTreeModel.java
+END
+IconMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/jor/src/jatools/designer/IconMap.java
+END
+PageProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/designer/PageProvider.java
+END
+DataTreeUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/designer/DataTreeUtil.java
+END
+DatasetReaderSelectDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/designer/DatasetReaderSelectDialog.java
+END
+DatasetReaderConfigureTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/designer/DatasetReaderConfigureTree.java
+END
+PageFormatEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/designer/PageFormatEditor.java
+END
+EditorTabPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/11/jor/src/jatools/designer/EditorTabPanel.java
+END
+ReaderVariableNameChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/designer/ReaderVariableNameChecker.java
+END
+ClipBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/designer/ClipBoard.java
+END
+Global.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/jor/src/jatools/designer/Global.java
+END
+ReaderUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/designer/ReaderUtil.java
+END
+PageFormatParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/designer/PageFormatParser.java
+END
+SqlReaderDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/designer/SqlReaderDialog.java
+END
+Stretcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/designer/Stretcher.java
+END
+DatasetReaderList.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/DatasetReaderList.java
+END
+ReportPreviewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/designer/ReportPreviewer.java
+END
+ActionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/designer/ActionManager.java
+END
+DisplayFieldSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/designer/DisplayFieldSelector.java
+END
+Point2.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/jor/src/jatools/designer/Point2.java
+END
+JdbcProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/designer/JdbcProvider.java
+END
+ConnectionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/designer/ConnectionPanel.java
+END
+OtherSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/designer/OtherSelector.java
+END
+ReportEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/jor/src/jatools/designer/ReportEditor.java
+END
+VariableNodeRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/designer/VariableNodeRenderer.java
+END
+UIPageFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/designer/UIPageFormat.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/jor/src/jatools/designer/Main.java
+END
+SelectionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/designer/SelectionState.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/designer/Resource.java
+END
+ImageCacher.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/jor/src/jatools/designer/ImageCacher.java
+END
+GroupBySelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/designer/GroupBySelector.java
+END
+DataTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/designer/DataTree.java
+END
+Undoable.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/designer/Undoable.java
+END
+JatoolsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/designer/JatoolsException.java
+END
+ReportPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/jor/src/jatools/designer/ReportPanel.java
+END
+ReportDocumentFileDropHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/jor/src/jatools/designer/ReportDocumentFileDropHandler.java
+END
+SummarySelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/designer/SummarySelector.java
+END

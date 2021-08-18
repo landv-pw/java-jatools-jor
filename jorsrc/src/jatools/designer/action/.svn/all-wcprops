@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/jor/src/jatools/designer/action
+END
+NewLineAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/jor/src/jatools/designer/action/NewLineAction.java
+END
+EditCutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/designer/action/EditCutAction.java
+END
+NewTableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/action/NewTableAction.java
+END
+OpenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/action/OpenAction.java
+END
+ResizeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/designer/action/ResizeAction.java
+END
+AlignLeftAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/designer/action/AlignLeftAction.java
+END
+CloseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/designer/action/CloseAction.java
+END
+MoveAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/action/MoveAction.java
+END
+ExitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/action/ExitAction.java
+END
+BringToFrontAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/designer/action/BringToFrontAction.java
+END
+NewPowerTableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/designer/action/NewPowerTableAction.java
+END
+SameHeightAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/designer/action/SameHeightAction.java
+END
+AlignBottomAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/designer/action/AlignBottomAction.java
+END
+SelectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/designer/action/SelectAction.java
+END
+EditCopyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/action/EditCopyAction.java
+END
+ExportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/designer/action/ExportAction.java
+END
+SaveAsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/designer/action/SaveAsAction.java
+END
+BorderEnableAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/designer/action/BorderEnableAction.java
+END
+SameWidthAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/designer/action/SameWidthAction.java
+END
+AlignVerticalCenterAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/jor/src/jatools/designer/action/AlignVerticalCenterAction.java
+END
+AlignRightAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/designer/action/AlignRightAction.java
+END
+NewLabelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/jor/src/jatools/designer/action/NewLabelAction.java
+END
+AlignAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/designer/action/AlignAction.java
+END
+AlignCenterAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/designer/action/AlignCenterAction.java
+END
+FormatBrushAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/designer/action/FormatBrushAction.java
+END
+DocumentSettingsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/jor/src/jatools/designer/action/DocumentSettingsAction.java
+END
+SameBothAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/action/SameBothAction.java
+END
+NewTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/designer/action/NewTable.java
+END
+UndoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/action/UndoAction.java
+END
+SimplePropertyListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/jor/src/jatools/designer/action/SimplePropertyListener.java
+END
+EditDeleteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/designer/action/EditDeleteAction.java
+END
+TableWizardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/designer/action/TableWizardAction.java
+END
+NewPanelAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/action/NewPanelAction.java
+END
+NewBarcodeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/jor/src/jatools/designer/action/NewBarcodeAction.java
+END
+ShowPreviewerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/designer/action/ShowPreviewerAction.java
+END
+AboutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/jor/src/jatools/designer/action/AboutAction.java
+END
+NewChartAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/jor/src/jatools/designer/action/NewChartAction.java
+END
+ReportAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/designer/action/ReportAction.java
+END
+ActionConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/designer/action/ActionConstants.java
+END
+PasteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/designer/action/PasteAction.java
+END
+AlignTopAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/action/AlignTopAction.java
+END
+BringToBackAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/designer/action/BringToBackAction.java
+END
+OpenMruAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/designer/action/OpenMruAction.java
+END
+NewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/designer/action/NewAction.java
+END
+RedoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/action/RedoAction.java
+END
+SpaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/designer/action/SpaceAction.java
+END
+NewImageAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/action/NewImageAction.java
+END
+EditClipAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/action/EditClipAction.java
+END
+CenterToParentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/jor/src/jatools/designer/action/CenterToParentAction.java
+END
+PageSetupAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/designer/action/PageSetupAction.java
+END
+NewTextAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/designer/action/NewTextAction.java
+END
+SaveAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/action/SaveAction.java
+END

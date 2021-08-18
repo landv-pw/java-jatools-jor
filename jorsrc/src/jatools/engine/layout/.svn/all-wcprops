@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/jor/src/jatools/engine/layout
+END
+PrinterLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/engine/layout/PrinterLayout.java
+END
+TableView.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/engine/layout/TableView.java
+END
+FreePrinterLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/engine/layout/FreePrinterLayout.java
+END
+AbstractPrinterLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/jor/src/jatools/engine/layout/AbstractPrinterLayout.java
+END
+InsertableGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/engine/layout/InsertableGroup.java
+END
+PowerTablePrinterLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/jor/src/jatools/engine/layout/PowerTablePrinterLayout.java
+END
+PrintableArea.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/engine/layout/PrintableArea.java
+END
+TablePrinterLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/engine/layout/TablePrinterLayout.java
+END
+TableViewSplitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/engine/layout/TableViewSplitter.java
+END
+UnitedLevelManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/engine/layout/UnitedLevelManager.java
+END
+PagePrinterLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/engine/layout/PagePrinterLayout.java
+END

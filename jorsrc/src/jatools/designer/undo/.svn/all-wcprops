@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/jor/src/jatools/designer/undo
+END
+TablePropertyEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/TablePropertyEdit.java
+END
+GroupEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/GroupEdit.java
+END
+ParentChangeEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/jor/src/jatools/designer/undo/ParentChangeEdit.java
+END
+AbstractLayoutEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/AbstractLayoutEdit.java
+END
+ResizeEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/ResizeEdit.java
+END
+DeleteEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/DeleteEdit.java
+END
+PointsMoveEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/PointsMoveEdit.java
+END
+TableGroupEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/jor/src/jatools/designer/undo/TableGroupEdit.java
+END
+PositionEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/PositionEdit.java
+END
+TableRemoveEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/TableRemoveEdit.java
+END
+MoveEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/jor/src/jatools/designer/undo/MoveEdit.java
+END
+LayerEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/LayerEdit.java
+END
+ChartSetEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/ChartSetEdit.java
+END
+LayoutEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/LayoutEdit.java
+END
+PropertyWithLayoutEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/PropertyWithLayoutEdit.java
+END
+PointMoveEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/jor/src/jatools/designer/undo/PointMoveEdit.java
+END
+PropertyEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/PropertyEdit.java
+END
+AddEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/designer/undo/AddEdit.java
+END

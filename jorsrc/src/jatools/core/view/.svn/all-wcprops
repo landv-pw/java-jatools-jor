@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/jor/src/jatools/core/view
+END
+CSSBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/jor/src/jatools/core/view/CSSBuilder.java
+END
+FontUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/jor/src/jatools/core/view/FontUtil.java
+END
+ImageViewConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/core/view/ImageViewConverter.java
+END
+TransformView.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/core/view/TransformView.java
+END
+StyleAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/core/view/StyleAttributes.java
+END
+PageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/core/view/PageView.java
+END
+BorderBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/jor/src/jatools/core/view/BorderBase.java
+END
+IndexedStyleAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/core/view/IndexedStyleAttributes.java
+END
+TablePartView.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/core/view/TablePartView.java
+END
+View.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/jor/src/jatools/core/view/View.java
+END
+View-i.uml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/jor/src/jatools/core/view/View-i.uml
+END
+StyleParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/core/view/StyleParser.java
+END
+Border.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/jor/src/jatools/core/view/Border.java
+END
+ImageView.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/core/view/ImageView.java
+END
+CompoundView.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/core/view/CompoundView.java
+END
+TextView.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/core/view/TextView.java
+END
+DisplayStyleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/core/view/DisplayStyleManager.java
+END
+LineView.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/core/view/LineView.java
+END
+ClipView.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/core/view/ClipView.java
+END
+DisplayStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/core/view/DisplayStyle.java
+END
+DisplayStyleWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/core/view/DisplayStyleWrapper.java
+END
+View-i.ucd
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/jor/src/jatools/core/view/View-i.ucd
+END
+_Tip.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/jor/src/jatools/core/view/_Tip.java
+END
+TextLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/core/view/TextLine.java
+END
+BorderStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/jor/src/jatools/core/view/BorderStyle.java
+END
+AbstractView.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/core/view/AbstractView.java
+END

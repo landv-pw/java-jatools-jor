@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/jor/src/jatools/engine
+END
+AmbiguousNameNodePattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/engine/AmbiguousNameNodePattern.java
+END
+CopyRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/jor/src/jatools/engine/CopyRule.java
+END
+ImportFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/engine/ImportFunctions.java
+END
+ProtectClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/engine/ProtectClass.java
+END
+ReportJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9/jor/src/jatools/engine/ReportJob.java
+END
+System2.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/jor/src/jatools/engine/System2.java
+END
+CellFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/engine/CellFinder.java
+END
+_Job.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/jor/src/jatools/engine/_Job.java
+END
+PrinterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/engine/PrinterFactory.java
+END
+ReportPrinterUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/engine/ReportPrinterUtil.java
+END
+InterpreterAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/engine/InterpreterAware.java
+END
+Printer.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/jor/src/jatools/engine/Printer.java
+END
+ValueIfClosed.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/jor/src/jatools/engine/ValueIfClosed.java
+END
+PrintConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/engine/PrintConstants.java
+END
+PrinterListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/engine/PrinterListener.java
+END
+DynamicProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/engine/DynamicProperty.java
+END

@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/jor/src/jatools/designer/data
+END
+HypelinkPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/jor/src/jatools/designer/data/HypelinkPropertyEditor.java
+END
+DatasetReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/designer/data/DatasetReaderFactory.java
+END
+ReaderSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/designer/data/ReaderSelector.java
+END
+NameChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/designer/data/NameChecker.java
+END
+Hyperlink.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/designer/data/Hyperlink.java
+END
+VariableTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/data/VariableTree.java
+END
+DatasetExplorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/designer/data/DatasetExplorer.java
+END
+VariableChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/designer/data/VariableChooser.java
+END
+DatasetPreviewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/data/DatasetPreviewer.java
+END
+DatasetTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/designer/data/DatasetTableModel.java
+END
+VariableTransferable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/jor/src/jatools/designer/data/VariableTransferable.java
+END
+CustomFormulaDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/designer/data/CustomFormulaDialog.java
+END
+Variable.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/designer/data/Variable.java
+END
+ReaderChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/jor/src/jatools/designer/data/ReaderChooser.java
+END
+TooltipHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/designer/data/TooltipHelper.java
+END
+CsvReaderDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/jor/src/jatools/designer/data/CsvReaderDialog.java
+END
+NameDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/jor/src/jatools/designer/data/NameDialog.java
+END
+DatasetPropertyEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/designer/data/DatasetPropertyEditor.java
+END
+RowsTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/jor/src/jatools/designer/data/RowsTable.java
+END
+CsvReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/jor/src/jatools/designer/data/CsvReaderFactory.java
+END
+ConnectionEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/jor/src/jatools/designer/data/ConnectionEditor.java
+END
+VariableExplorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/designer/data/VariableExplorer.java
+END
+CustomSummaryDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/jor/src/jatools/designer/data/CustomSummaryDialog.java
+END
+IconTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/designer/data/IconTree.java
+END
+SQLParserConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/jor/src/jatools/designer/data/SQLParserConstants.java
+END
+SimpleDatasetReaderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/jor/src/jatools/designer/data/SimpleDatasetReaderFactory.java
+END
+ConnectionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/designer/data/ConnectionPanel.java
+END
+SqlTextPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/data/SqlTextPanel.java
+END
+SqlReaderEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/jor/src/jatools/designer/data/SqlReaderEditor.java
+END
+ConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/jor/src/jatools/designer/data/ConnectionManager.java
+END
+CustomParameterDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/designer/data/CustomParameterDialog.java
+END
+DatasetTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/jor/src/jatools/designer/data/DatasetTable.java
+END
+SQLDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/designer/data/SQLDocument.java
+END

@@ -1,0 +1,5 @@
+2009-09-29 13:41:24 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [jatools.ppp.User]; using defaults.
+2009-09-29 13:41:25 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [jatools.ppp.SheetTemplate]; using defaults.
+2009-09-29 13:41:25 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [jatools.ppp.Address]; using defaults.
+2009-09-29 13:41:28 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [org.hibernate.cache.UpdateTimestampsCache]; using defaults.
+2009-09-29 13:41:28 [WARN ] org.hibernate.cache.EhCacheProvider  - Could not find configuration [org.hibernate.cache.StandardQueryCache]; using defaults.

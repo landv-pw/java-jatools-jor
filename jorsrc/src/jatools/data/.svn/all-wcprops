@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/jor/src/jatools/data
+END
+Parameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/jor/src/jatools/data/Parameter.java
+END
+Formula.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/jor/src/jatools/data/Formula.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/jor/src/jatools/data/Node.java
+END
+NodeProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/jor/src/jatools/data/NodeProxy.java
+END
+DataException.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/jor/src/jatools/data/DataException.java
+END
+AbstractNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/jor/src/jatools/data/AbstractNode.java
+END
+InvisibleVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/data/InvisibleVariable.java
+END
+FieldNodeProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/data/FieldNodeProxy.java
+END
+Path.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/jor/src/jatools/data/Path.java
+END

@@ -1,0 +1,236 @@
+10
+
+dir
+2
+https://nexreport.googlecode.com/svn/jor/src/jatools
+https://nexreport.googlecode.com/svn
+
+
+
+2011-01-04T08:02:42.547297Z
+2
+jatools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c2b59b78-36b0-2677-a922-680cc543fabb
+
+dom
+dir
+
+swingx
+dir
+
+servlet
+dir
+
+property
+dir
+
+classtree
+dir
+
+dataset
+dir
+
+db
+dir
+
+core
+dir
+
+math
+dir
+
+ReportDocument.java
+file
+4
+
+
+
+2011-01-04T11:20:58.000000Z
+8f9f502a677d2c7c0201a99cf4e47ce9
+2011-01-04T11:33:02.671787Z
+4
+jatools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10130
+
+tags
+dir
+
+designer
+dir
+
+xml
+dir
+
+viewer
+dir
+
+component
+dir
+
+accessor
+dir
+
+formatter
+dir
+
+engine
+dir
+
+PageFormat.java
+file
+
+
+
+
+2009-11-09T01:48:08.000000Z
+eea2d19ba1e76f8181733e35bfbe2820
+2011-01-04T08:02:42.547297Z
+2
+jatools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7642
+
+server
+dir
+
+io
+dir
+
+data
+dir
+
+imageio
+dir
+
+resources
+dir
+
+VariableContext.java
+file
+
+
+
+
+2009-11-09T01:48:14.000000Z
+f9ee15e0ee95a589c5bb6080026eb6da
+2011-01-04T08:02:42.547297Z
+2
+jatools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6175
+
+icons
+dir
+
+util
+dir
+
+.cvsignore
+file
+
+
+
+
+2009-11-09T01:47:08.000000Z
+72a06665d01d620ab3c87ead96754db3
+2011-01-04T08:02:42.547297Z
+2
+jatools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8
+

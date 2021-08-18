@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+	
+	<servlet>
+		<!-- 带工具栏的报表浏览器,jsp实现 -->
+		<servlet-name>reportviewer</servlet-name> 
+		<jsp-file>/tools/reportviewer.jsp</jsp-file> 
+	</servlet> 
+	<servlet> 
+		<!-- 不带工具栏的报表浏览器,servlet实现 -->
+		<servlet-name>jatoolsreport</servlet-name> 
+		<servlet-class>jatools.server.JatoolsReportServlet</servlet-class>
+		<load-on-startup>1</load-on-startup>
+	</servlet> 
+	<servlet-mapping>
+		<servlet-name>reportviewer</servlet-name>
+		<url-pattern>/reportviewer</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>jatoolsreport</servlet-name>
+		<url-pattern>/jatoolsreport</url-pattern>
+		<load-on-startup>1</load-on-startup>
+	</servlet-mapping>
+</web-app>

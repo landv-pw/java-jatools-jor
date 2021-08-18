@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/jor/src/jatools/component
+END
+ComponentConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/jor/src/jatools/component/ComponentConstants.java
+END
+BarCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9/jor/src/jatools/component/BarCode.java
+END
+Panel.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/jor/src/jatools/component/Panel.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/component/Component.java
+END
+ImageStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/jor/src/jatools/component/ImageStyle.java
+END
+BackgroundImageStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/jor/src/jatools/component/BackgroundImageStyle.java
+END
+ComponentXmlWriteListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/jor/src/jatools/component/ComponentXmlWriteListener.java
+END
+ComponentContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/jor/src/jatools/component/ComponentContainer.java
+END
+Size.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/jor/src/jatools/component/Size.java
+END
+Page.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/jor/src/jatools/component/Page.java
+END
+ColumnPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/jor/src/jatools/component/ColumnPanel.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/jor/src/jatools/component/Label.java
+END
+ImageObjectFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/component/ImageObjectFormat.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/jor/src/jatools/component/Image.java
+END
+Text.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/jor/src/jatools/component/Text.java
+END
+Line.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/jor/src/jatools/component/Line.java
+END
+PrinterRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/jor/src/jatools/component/PrinterRegister.java
+END
+Var.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/jor/src/jatools/component/Var.java
+END
+ImageFileSrc.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/jor/src/jatools/component/ImageFileSrc.java
+END
+ComponentComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/jor/src/jatools/component/ComponentComparator.java
+END
+PagePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/jor/src/jatools/component/PagePanel.java
+END
+ImageExportFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/jor/src/jatools/component/ImageExportFormat.java
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/jor/src/jatools/component/.cvsignore
+END
